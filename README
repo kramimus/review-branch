@@ -1,0 +1,8 @@
+From your git repo directory run:
+
+review_branch.py <num1> <num2> ...
+
+Where the numbers reference (trac) ticket numbers that
+are referenced in commit messages.
+
+See source for more details
